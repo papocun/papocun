@@ -1,4 +1,3 @@
-## Hi there 👋
 ## Hey there 👋
 
 I'm **Divyansh Tiwari**, focused on Data Science, Machine Learning, Deep Learning, NLP, and Analytics.
@@ -9,14 +8,10 @@ This profile highlights hands-on implementations across analysis, experimentatio
 
 * Python (Pandas, NumPy, Scikit-learn)
 * SQL
-* Machine Learning
-* Deep Learning
-* Natural Language Processing (NLP)
+* Machine Learning, Deep Learning, Natural Language Processing (NLP)
 * Product Analytics & Product Thinking
-* A/B Testing & Experimentation
-* Statistical Analysis
-* Data Visualization (Matplotlib, Seaborn)
-* Power BI
+* A/B Testing, Experimentation, and Statistical Analysis
+* Data Visualization (Matplotlib, Seaborn, Power BI)
 * Git & GitHub
 
 ### 📊 Work Includes
