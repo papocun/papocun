@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm **Divyansh Tiwari**, focused on Data Science, Machine Learning, Deep Learning, NLP, and Analytics.
+I'm **Divyanshu Tiwari**, focused on Data Science, Machine Learning, Deep Learning, NLP, and Analytics.
 I build data-driven projects, work with real datasets, and develop end-to-end analytical and modeling workflows.
 This profile highlights hands-on implementations across analysis, experimentation, and applied machine learning.
 
