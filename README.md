@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-I like working with data to understand what’s actually going on, why something works, why it doesn’t, and what can be improved.
+I like working with data to understand what’s actually going on, why something works or doesn’t, and what can be improved.
 I break problems into simple questions and use data to answer them. I focus on the right metrics, look for patterns, and connect what’s happening with why it’s happening. Currently building a strong base in statistics, machine learning, and deep learning by applying them to real problems. I’m also interested in experiments, forming hypotheses, testing them properly, and interpreting results.
 
 
@@ -40,6 +40,6 @@ I document what I build, break, and fix.
 ## 📫 Reach me
 
 * LinkedIn: ([LINKEDIN](https://www.linkedin.com/in/divyansh21/))
-* Email: (adivyanshutiwari281@gmail.com)
+* Email: (divyanshutiwari281@gmail.com)
 
 
