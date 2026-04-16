@@ -39,7 +39,7 @@ I document what I build, break, and fix.
 
 ## 📫 Reach me
 
-* LinkedIn: ([add](https://www.linkedin.com/in/divyansh21/))
+* LinkedIn: ([lINKEDIN](https://www.linkedin.com/in/divyansh21/))
 * Email: ([add]adivyanshutiwari281@gmail.com)
 
 
