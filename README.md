@@ -1,8 +1,11 @@
 # Hey, I'm Divyansh 👋
 
-Data-focused builder working on ML systems, analytics, and real-world problem solving.
+## 👋 About Me
 
----
+I like working with data to understand what’s actually going on, why something works, why it doesn’t, and what can be improved.
+I break problems into simple questions and use data to answer them. I focus on the right metrics, look for patterns, and connect what’s happening with why it’s happening. Currently building a strong base in statistics, machine learning, and deep learning by applying them to real problems. I’m also interested in experiments, forming hypotheses, testing them properly, and interpreting results.
+
+
 
 ## ⚡ Playing with
 
@@ -32,15 +35,11 @@ I document what I build, break, and fix.
 * Debugging models that don’t work
 * Thinking in metrics, not just code
 
----
+
 
 ## 📫 Reach me
 
-* LinkedIn: (add)
-* Email: (add)
+* LinkedIn: ([add](https://www.linkedin.com/in/divyansh21/))
+* Email: ([add]adivyanshutiwari281@gmail.com)
 
----
 
-## ⚡ One line
-
-I build things that actually use data — not just notebooks.
