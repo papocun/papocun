@@ -24,16 +24,6 @@ Data-focused builder working on ML systems, analytics, and real-world problem so
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=flat\&logo=github)
 
 
----
-
-## 🚀 Currently Building
-
-* 🚕 Taxi Demand Prediction → time-series forecasting + feature engineering
-* 🧠 SQL REPL Engine → interactive query system (like mini DB playground)
-* 📊 Product Analytics Projects → funnels, A/B testing, metrics
-
----
-
 ## 🧠 Learning in Public
 
 I document what I build, break, and fix.
@@ -41,22 +31,6 @@ I document what I build, break, and fix.
 * Turning raw data → usable system
 * Debugging models that don’t work
 * Thinking in metrics, not just code
-
----
-
-## 📂 Featured Work
-
-* 🚕 Taxi Demand Prediction System
-* 📊 Analytics Case Studies
-* 🧠 SQL Practice + Systems
-
----
-
-## 📈 Focus
-
-* Time Series Forecasting
-* Product Analytics
-* End-to-End ML Pipelines
 
 ---
 
