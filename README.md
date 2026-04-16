@@ -1,43 +1,61 @@
-## Hey there 👋
+# Hey, I'm Divyansh 👋
 
-I'm **Divyanshu Tiwari**, focused on Data Science, Machine Learning, Deep Learning, NLP, and Analytics.
-I build data-driven projects, work with real datasets, and develop end-to-end analytical and modeling workflows.
-This profile highlights hands-on implementations across analysis, experimentation, and applied machine learning.
+Data-focused builder working on ML systems, analytics, and real-world problem solving.
 
-### 🛠️ Tools & Tech
+---
 
-* Python (Pandas, NumPy, Scikit-learn)
-* SQL
-* Machine Learning, Deep Learning, Natural Language Processing (NLP)
-* Product Analytics & Product Thinking
-* A/B Testing, Experimentation, and Statistical Analysis
-* Data Visualization (Matplotlib, Seaborn, Power BI)
-* Git & GitHub
+## ⚡ Playing with
 
-### 📊 Work Includes
+![Python](https://img.shields.io/badge/Python-111?style=flat\&logo=python)
+![SQL](https://img.shields.io/badge/SQL-111?style=flat\&logo=postgresql)
+![Machine Learning](https://img.shields.io/badge/ML-111)
+![Power BI](https://img.shields.io/badge/PowerBI-111?style=flat\&logo=powerbi)
+![Git](https://img.shields.io/badge/Git-111?style=flat\&logo=git)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-111?style=flat\&logo=scikitlearn)
 
-* Exploratory Data Analysis (EDA)
-* Data Cleaning & Preprocessing
-* Feature Engineering
-* Machine Learning Model Development
-* Deep Learning Experiments
-* NLP Projects
-* A/B Test Design & Analysis
-* Product Metrics Analysis
-* Insight Generation & Reporting
-* End-to-End Data Science Projects
+---
 
-<!--
-**papocun/papocun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Currently Building
 
-Here are some ideas to get you started:
+* 🚕 Taxi Demand Prediction → time-series forecasting + feature engineering
+* 🧠 SQL REPL Engine → interactive query system (like mini DB playground)
+* 📊 Product Analytics Projects → funnels, A/B testing, metrics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Learning in Public
+
+I document what I build, break, and fix.
+
+* Turning raw data → usable system
+* Debugging models that don’t work
+* Thinking in metrics, not just code
+
+---
+
+## 📂 Featured Work
+
+* 🚕 Taxi Demand Prediction System
+* 📊 Analytics Case Studies
+* 🧠 SQL Practice + Systems
+
+---
+
+## 📈 Focus
+
+* Time Series Forecasting
+* Product Analytics
+* End-to-End ML Pipelines
+
+---
+
+## 📫 Reach me
+
+* LinkedIn: (add)
+* Email: (add)
+
+---
+
+## ⚡ One line
+
+I build things that actually use data — not just notebooks.
