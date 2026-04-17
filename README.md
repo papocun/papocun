@@ -11,8 +11,8 @@ I break problems into simple questions and use data to answer them. I focus on t
 
 ![Python](https://img.shields.io/badge/Python-111?style=flat\&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-111?style=flat\&logo=postgresql)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-111)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-111)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-111?style=flat)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-111?style=flat)
 ![NLP](https://img.shields.io/badge/NLP-111)
 ![GenAI](https://img.shields.io/badge/GenAI-111)
 ![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-111)
@@ -25,16 +25,21 @@ I break problems into simple questions and use data to answer them. I focus on t
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-111)
 ![Git](https://img.shields.io/badge/Git-111?style=flat\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=flat\&logo=github)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0A?style=flat&logo=fastapi&logoColor=00C7B7)
+![Plotly](https://img.shields.io/badge/Plotly-0A0A0A?style=flat&logo=plotly&logoColor=00C7B7)
+![DuckDB](https://img.shields.io/badge/DuckDB-111?style=flat&logo=duckdb&logoColor=FFF000)
 
 
 ## 🧠 Learning in Public
 
-I document what I build, break, and fix.
+**Build. Break. Understand. Share. Repeat.**
 
-* Turning raw data → usable system
-* Debugging models that don’t work
-* Thinking in metrics, not just code
+I document the real journey, the wins, the failures, and the fixes.  
+Because that’s where learning actually happens.
+
+| 🚀 | 🛠️ | 📊 |
+|---|---|---|
+| **Turn raw data into systems** | **Debug models that fail** | **Think in metrics, not just code** |
 
 
 
