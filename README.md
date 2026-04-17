@@ -25,6 +25,7 @@ I break problems into simple questions and use data to answer them. I focus on t
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-111)
 ![Git](https://img.shields.io/badge/Git-111?style=flat\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=flat\&logo=github)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 
 ## 🧠 Learning in Public
