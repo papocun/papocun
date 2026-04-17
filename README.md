@@ -28,6 +28,7 @@ I break problems into simple questions and use data to answer them. I focus on t
 ![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0A?style=flat&logo=fastapi&logoColor=00C7B7)
 ![Plotly](https://img.shields.io/badge/Plotly-0A0A0A?style=flat&logo=plotly&logoColor=00C7B7)
 ![DuckDB](https://img.shields.io/badge/DuckDB-111?style=flat&logo=duckdb&logoColor=FFF000)
+![Streamlit](https://img.shields.io/badge/Streamlit-111?style=flat&logo=streamlit&logoColor=FF4B4B)
 
 
 ## 🧠 Learning in Public
