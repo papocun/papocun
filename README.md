@@ -1,4 +1,4 @@
-# Hey, I'm Divyansh 👋
+# Hey, I'm Divyanshu 👋
 
 ## 👇 About Me
 
