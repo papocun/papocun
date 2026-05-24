@@ -7,7 +7,7 @@
 
 ## About Me
 
-I work with data to understand what's actually going on — why something works, why it doesn't, and what can be improved. I break problems into simple questions, focus on the right metrics, and connect what's happening with why it's happening. Currently building in **statistics, ML, and deep learning** by applying them to real problems, running experiments, and being honest about what the results say.
+I work with data to understand what's actually going on, why something works, why it doesn't, and what can be improved. I break problems into simple questions, focus on the right metrics, and connect what's happening with why it's happening, currently building in **statistics, ML, and deep learning** by applying them to real problems, running experiments, and being honest about what the results say.
 
 
 
