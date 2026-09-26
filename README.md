@@ -1,6 +1,9 @@
-# Divyanshu Tiwari <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/wave.gif" width="30">
+<div align="left">
 
-`Data Engineer`
+
+
+
+Data Engineer
 
 I build systems that turn raw data into something you can trust — pipelines, warehouses, and the models that sit on top of them.
 
