@@ -6,7 +6,7 @@
 
 ## About Me
 
-I build data systems that turn raw data into reliable, usable datasets. I work across data pipelines, databases, cloud infrastructure, analytics, and machine learning, with a focus on understanding data and building things that actually work.
+I build data systems that turn raw data into reliable, usable datasets. I work across data pipelines, databases, cloud infrastructure, data modeling, analytics, and machine learning, with a focus on understanding data and building things that actually work.
 
 ## ⚡ Playing with
 
@@ -17,18 +17,17 @@ I build data systems that turn raw data into reliable, usable datasets. I work a
 ![Airflow](https://img.shields.io/badge/Airflow-111?style=flat-square\&logo=apacheairflow\&logoColor=017CEE)
 ![dbt](https://img.shields.io/badge/dbt-111?style=flat-square\&logo=dbt\&logoColor=FF694B)
 ![Spark](https://img.shields.io/badge/Spark-111?style=flat-square\&logo=apachespark\&logoColor=E25A1C)
-![Polars](https://img.shields.io/badge/Polars-111?style=flat-square\&logo=polars\&logoColor=CD792C)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-111?style=flat-square)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-111?style=flat-square\&logo=scikitlearn\&logoColor=F7931E)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-111?style=flat-square)
 ![Product Analytics](https://img.shields.io/badge/Product%20Analytics-111?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-111?style=flat-square\&logo=docker\&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-111?style=flat-square\&logo=git\&logoColor=F05032)
 
 ## 🧠 What I Focus On
 
-| 🗄️ Data Pipelines                          | 🏗️ Data Systems                                   | 📊 Analytics & ML                                  |
-| ------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- |
-| Build and transform reliable data pipelines | Work with databases, warehouses, and cloud systems | Use data for product insights and machine learning |
+| 🗄️ Data Pipelines                          | 🏗️ Data Systems                              | 📊 Analytics & ML                                  |
+| ------------------------------------------- | --------------------------------------------- | -------------------------------------------------- |
+| Build and transform reliable data pipelines | Design databases, warehouses, and data models | Use data for product insights and machine learning |
 
 ## 📫 Reach Me
 
