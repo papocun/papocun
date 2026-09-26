@@ -8,7 +8,7 @@ I build data pipelines, warehouses, and systems that turn raw data into reliable
 
 ## Playing with
 
-`Python` `SQL` `Data Modeling` `AWS` `Snowflake` `Airflow` `dbt` `Spark` `Docker` `Machine Learning` `Scikit-learn` `Product Analytics`
+`Python` `SQL` `Data Modeling` `AWS` `Snowflake` `Airflow` `dbt` `Pyspark` `Docker` `Machine Learning` `Scikit-learn` `Product Analytics`
 
 ## Elsewhere
 
