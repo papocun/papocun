@@ -1,6 +1,12 @@
-# Divyanshu Tiwari
+# Divyanshu Tiwari <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/wave.gif" width="30">
 
-Data engineer. I build systems that turn raw data into something you can trust — pipelines, warehouses, and the models that sit on top of them.
+`Data Engineer`
+
+I build systems that turn raw data into something you can trust — pipelines, warehouses, and the models that sit on top of them.
+
+```
+raw data  →  pipeline  →  warehouse  →  insight
+```
 
 I spend most of my time moving data reliably from one place to another, shaping it into something a warehouse can hold and a person can query, and occasionally putting it to work in a model. The parts I care most about are correctness and clarity: a pipeline that fails loudly, a schema that reads like documentation.
 
@@ -12,7 +18,7 @@ I spend most of my time moving data reliably from one place to another, shaping 
 
 ## Tools I reach for
 
-`Python` `SQL` `Airflow` `dbt` `Spark` `AWS` `Docker` `scikit-learn`
+`Python` `SQL` `Data Modeling` `Airflow` `dbt` `Snowflake` `PySpark` `Docker` `Machine Learning` `Polars`
 
 ## Elsewhere
 
