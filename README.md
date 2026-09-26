@@ -15,3 +15,6 @@ I build data pipelines, warehouses, and systems that turn raw data into reliable
 [LinkedIn](https://www.linkedin.com/in/divyansh21/) · [Gmail](mailto:divyanshutiwari281@gmail.com) · [Twitter/X](https://x.com/21dvy_t)
 
 </div>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=111&label=👁️+PROFILE+VIEWS)
