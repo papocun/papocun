@@ -17,4 +17,4 @@ I build data pipelines, warehouses, and systems that turn raw data into reliable
 </div>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=111&label=👁️+PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=papocun&style=flat&color=111&label=👁" alt="Profile views"/>
