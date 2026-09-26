@@ -11,9 +11,8 @@ I build data systems that turn raw data into reliable, usable datasets. I work a
 ## ⚡ Playing with
 
 ![Python](https://img.shields.io/badge/Python-111?style=flat-square\&logo=python\&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-111?style=flat-square\&logo=postgresql\&logoColor=4169E1)
+![SQL](https://img.shields.io/badge/SQL-111?style=flat-square\&logo=sqlite\&logoColor=003B57)
 ![AWS](https://img.shields.io/badge/AWS-111?style=flat-square\&logo=amazonwebservices\&logoColor=FF9900)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=flat-square\&logo=postgresql\&logoColor=4169E1)
 ![Airflow](https://img.shields.io/badge/Airflow-111?style=flat-square\&logo=apacheairflow\&logoColor=017CEE)
 ![dbt](https://img.shields.io/badge/dbt-111?style=flat-square\&logo=dbt\&logoColor=FF694B)
 ![Spark](https://img.shields.io/badge/Spark-111?style=flat-square\&logo=apachespark\&logoColor=E25A1C)
