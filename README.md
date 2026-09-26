@@ -17,4 +17,4 @@ I build data pipelines, warehouses, and systems that turn raw data into reliable
 </div>
 
 
-<img src="https://komarev.com/ghpvc/?username=papocun&style=flat&color=111&label=👁" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=papocun&style=flat-square&color=111111&label=%F0%9F%91%81" alt="Profile views"/>
